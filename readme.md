@@ -1,8 +1,15 @@
-#Maxab Task
-I solved this problem using 2 solution
+# Maxab Task
+## I solved this problem using 2 solution
 
-first one api
-Route::post('/sessionSchedule','ScheduleController@sessionSchedule');
+## first one api
 
-second one api
-Route::post('/sessionSchedule2','ScheduleController2@sessionSchedule');
+```
+http://127.0.0.1:8000/api/sessionSchedule
+```
+
+
+## second one api
+```
+http://127.0.0.1:8000/api/sessionSchedule2
+```
+
